@@ -48,10 +48,10 @@ Question 8.
 Compte rendu MongoDb
 
 Dans notre projet l'utilisation d'un SGBD nous est uitle pour gerer nos restaurants et analyser nos clients.
-C'est impératif d'avoir une base de donnée organisé et avec de bonne performance. 
-Pour créer une requete on regarde le besoin et on fais en fonction, par exemple pour savoir d'ou vienne nos clients on calcule leur position grace a leur geoData.
+C'est impératif d'avoir une base de donnée organisé avec de bonne performance. 
+Pour créer une requete on regarde le besoin et on fais en fonction.
 
-On a creer des fake datas Clients grace a ce site 
+On a commencer par creer des fake datas Clients grace a ce site 
 https://www.mockaroo.com/
 On leurs a mis des geoDatas dans un array(Longitude/latitude), on a eu du mal a les mettres en place au début.
 
