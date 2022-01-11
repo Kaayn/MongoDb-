@@ -45,6 +45,21 @@ Question 8.
 ![image](https://user-images.githubusercontent.com/47184542/148761709-478d9e6a-4084-41cd-a855-238efe3e1bf3.png)
 
 
+Compte rendu MongoDb
+
+Dans notre projet l'utilisation d'un SGBD nous est uitle pour gerer nos restaurants et analyser nos clients.
+C'est impératif d'avoir une base de donnée organisé et avec de bonne performance. 
+Pour créer une requete on regarde le besoin et on fais en fonction, par exemple pour savoir d'ou vienne nos clients on calcule leur position grace a leur geoData.
+
+On a creer des fake datas Clients grace a ce site 
+https://www.mockaroo.com/
+On leurs a mis des geoDatas dans un array(Longitude/latitude), on a eu du mal a les mettres en place au début.
+
+Chart est un execellent moyen de creer des graphique grace au donnees quon lui confie, savoir ou se situe le plus de traffic sur l'ensemble de nos restaurant, ou la ou le traffic est le moins présent. On peut donc affiner en fonction, creer plus de restaurant dans une certaine zone, faire du marketting ou bien meme de la pub dans les endroits ou le traffic est plus faible. L'idée derriere cette démarche est potentiellement de fidéliser un maximum de client. 
+
+Creation d'une chart grace au geoDatas ![image](https://user-images.githubusercontent.com/47184542/148927876-7539b341-8f32-4c3e-80fc-622bebe473d3.png)
+
+
 
 
 
