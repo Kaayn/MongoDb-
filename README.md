@@ -53,7 +53,9 @@ L'index permet de se déplacer plus rapidement a travers toutes les collections,
 ![image](https://user-images.githubusercontent.com/47184542/149181846-d3c866a2-ed50-42bb-81e9-3593d983375b.png)
 
 ## Requêtes d'aggrégation 
+
 https://rtavenar.github.io/mongo_book/content/05_agreg.html
+
 Les requêtes d'aggrégation permettent d'additionner, regrouper , compter des données. 
 
 ![image](https://user-images.githubusercontent.com/47184542/149180990-3e6e78ae-0d0a-4f3a-93a3-0ebf59c07f90.png)
