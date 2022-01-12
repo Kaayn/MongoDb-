@@ -1,24 +1,64 @@
 # MongoDb-
-Cours 10/01/2022
 
-Création d'un compte MongoDb
 
-Invitation sur le cluster créer par Rabire 
+## Création d'un compte MongoDb!
+[Creation de compte mongodb](https://user-images.githubusercontent.com/47184542/149176268-32e4594b-86f4-4344-b53c-7acf54d84ba3.png)
+
+## Invitation sur le cluster créer par Rabire 
 ![image](https://user-images.githubusercontent.com/47184542/148751699-f300010c-4cbe-4bbc-8d5f-9bb78bd491e1.png)
 
-Création de la DataBase 
+## Création de la DataBase 
 ![image](https://user-images.githubusercontent.com/47184542/148751982-97f32eb7-98e6-4d81-a06b-68cb74dc2701.png)
 ![image](https://user-images.githubusercontent.com/47184542/148752731-201804c3-333f-42c0-9a65-562f6198aad0.png)
 ![image](https://user-images.githubusercontent.com/47184542/148752833-62ae3751-c605-419a-8a20-7304bf807290.png)
 
-Création d'un user root
+## Ajout d'un user root
 ![image](https://user-images.githubusercontent.com/47184542/148753384-6236cdb1-b924-480f-b6c8-c91e3b8a4ee2.png)
 
-Ajout de nos adresses IP
+## Ajout de nos adresses IP
 ![image](https://user-images.githubusercontent.com/47184542/148753256-98541fd0-aa8c-4dd6-9e56-bbe91830a344.png)
 
-Installation de Compass + Ajout du JSON restaurant
+## Essai de connexion avec MangoDB Shell
+![image](https://user-images.githubusercontent.com/47184542/149177239-06bb338e-a55c-4ee3-b9e9-a7f5e5fa78a5.png)
+
+On a eu des soucis avec Shell donc on est passé sur Compass
+
+## Installation de Compass + Ajout de la table restaurants
 ![image](https://user-images.githubusercontent.com/47184542/148757618-515efc70-fed2-4500-86a5-72d9ae827b7e.png)
+
+## Importation d'une table clients (1000 documents)
+![image](https://user-images.githubusercontent.com/47184542/149178218-ec38ee6d-7134-4713-ad35-5987796125af.png)
+
+
+
+## Compte rendu MongoDb
+
+Dans notre projet l'utilisation d'un SGBD nous est uitle pour gerer nos restaurants et analyser nos clients.
+C'est impératif d'avoir une base de donnée organisé avec de bonne performance. 
+Pour créer une requete on regarde le besoin et on fais en fonction.
+
+On a commencer par creer des fake datas Clients grace a ce site 
+https://www.mockaroo.com/
+On leurs a mis des geoDatas dans un array(Longitude/latitude), on a eu du mal a les mettres en place au début.
+
+Chart est un execellent moyen de creer des graphique grace au donnees qu'on lui confie, savoir ou se situe le plus de traffic sur l'ensemble de nos restaurant, ou la ou le traffic est le moins présent. On peut donc affiner en fonction, creer plus de restaurant dans une certaine zone, faire du marketting ou bien meme de la pub dans les endroits ou le traffic est plus faible. L'idée derriere cette démarche est potentiellement de fidéliser un maximum de client. 
+
+## Creation d'une chart grace au geoDatas 
+![image](https://user-images.githubusercontent.com/47184542/148927876-7539b341-8f32-4c3e-80fc-622bebe473d3.png)
+
+## Index 
+
+L'index permet de se déplacer plus rapidement a travers toutes les collections, c'est un parti indépendante qui affiche nos données selon un tri par ordre
+
+![image](https://user-images.githubusercontent.com/47184542/149181846-d3c866a2-ed50-42bb-81e9-3593d983375b.png)
+
+## Requêtes d'aggrégation 
+https://rtavenar.github.io/mongo_book/content/05_agreg.html
+Les requêtes d'aggrégation permettent d'additionner, regrouper , compter des données. 
+
+![image](https://user-images.githubusercontent.com/47184542/149180990-3e6e78ae-0d0a-4f3a-93a3-0ebf59c07f90.png)
+
+
 
 Question 1. Tout les documents
 ![image](https://user-images.githubusercontent.com/47184542/148758306-5bbb1029-47fe-4840-bede-c9ccd45aaf52.png)
@@ -43,23 +83,5 @@ Question 7.
 
 Question 8.
 ![image](https://user-images.githubusercontent.com/47184542/148761709-478d9e6a-4084-41cd-a855-238efe3e1bf3.png)
-
-
-## Compte rendu MongoDb
-
-Dans notre projet l'utilisation d'un SGBD nous est uitle pour gerer nos restaurants et analyser nos clients.
-C'est impératif d'avoir une base de donnée organisé avec de bonne performance. 
-Pour créer une requete on regarde le besoin et on fais en fonction.
-
-On a commencer par creer des fake datas Clients grace a ce site 
-https://www.mockaroo.com/
-On leurs a mis des geoDatas dans un array(Longitude/latitude), on a eu du mal a les mettres en place au début.
-
-Chart est un execellent moyen de creer des graphique grace au donnees quon lui confie, savoir ou se situe le plus de traffic sur l'ensemble de nos restaurant, ou la ou le traffic est le moins présent. On peut donc affiner en fonction, creer plus de restaurant dans une certaine zone, faire du marketting ou bien meme de la pub dans les endroits ou le traffic est plus faible. L'idée derriere cette démarche est potentiellement de fidéliser un maximum de client. 
-
-Creation d'une chart grace au geoDatas ![image](https://user-images.githubusercontent.com/47184542/148927876-7539b341-8f32-4c3e-80fc-622bebe473d3.png)
-
-
-
 
 
