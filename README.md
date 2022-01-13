@@ -60,6 +60,11 @@ Les requêtes d'aggrégation permettent d'additionner, regrouper , compter des d
 
 ![image](https://user-images.githubusercontent.com/47184542/149180990-3e6e78ae-0d0a-4f3a-93a3-0ebf59c07f90.png)
 
+![image](https://user-images.githubusercontent.com/47184542/149339497-9b4856de-a1d0-419c-8365-e681a84f0478.png)
+
+![image](https://user-images.githubusercontent.com/47184542/149339775-40c824f2-7845-4392-9956-11cc2a0651c2.png)
+
+![image](https://user-images.githubusercontent.com/47184542/149341194-8b7733a8-e326-4c57-87e8-5219d930eb70.png)
 
 
 Question 1. Tout les documents
@@ -85,5 +90,7 @@ Question 7.
 
 Question 8.
 ![image](https://user-images.githubusercontent.com/47184542/148761709-478d9e6a-4084-41cd-a855-238efe3e1bf3.png)
+
+
 
 
