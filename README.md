@@ -79,7 +79,9 @@ J'ai aussi récupérer tout les e-mail de nos clients
 
 ![image](https://user-images.githubusercontent.com/47184542/149344899-f0747e99-a2ff-4cde-99af-9714fee5c6b5.png)
 
-Grace a cette requete j'ai une idée claire de quand et qui vient dans les restos 
+## Analyse Clients 
+
+Grace a cette requete j'ai une idée claire de quand et qui vient dans nos restaurants 
 
 ![image](https://user-images.githubusercontent.com/47184542/149364886-eeab78fa-c869-45cf-8304-728434ded1c5.png)
 
@@ -90,6 +92,7 @@ Exemple d'un objet JSON que je récupère
 Je vois que Zeke est un client récurent et donc une personne à qui je vais pouvoir proposer des offres qu'il sera plus susceptible de prendre.
 
 
+# Questionnaire 
 
 Question 1. Tout les documents
 ![image](https://user-images.githubusercontent.com/47184542/148758306-5bbb1029-47fe-4840-bede-c9ccd45aaf52.png)
