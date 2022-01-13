@@ -68,9 +68,12 @@ Dans la requete qui suis je prend un tranche d'age pour reorienté nos clients d
 
 ![image](https://user-images.githubusercontent.com/47184542/149364452-33a19dd7-73cb-4220-825f-b50bde25c0b7.png)
 
-Donc la je connais la moyenne d'age de mes clients.
+## Devise de nos restaurants
 
-![image](https://user-images.githubusercontent.com/47184542/149344771-89294d63-82c3-46ad-95dc-7d907ef3a2a0.png)
+Pour toute les personnes ayant 20ans on offre un repas gratuit dans l'un de nos établissement.
+J'ai donc récupérer toutes les personnes ayant 20 ans.
+
+![image](https://user-images.githubusercontent.com/47184542/149366811-1d3a4340-3b9a-492b-857c-a0fff760242e.png)
 
 J'ai aussi récupérer tout les e-mail de nos clients 
 
