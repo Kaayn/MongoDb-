@@ -62,19 +62,25 @@ Les requêtes d'aggrégation permettent d'additionner, regrouper , compter des d
 
 Donc la mon but ca vas etre d'analyser nos clients, qui, quand et ou, pour après adapter nos restos a la demande et faire de la pub.
 
-![image](https://user-images.githubusercontent.com/47184542/149339497-9b4856de-a1d0-419c-8365-e681a84f0478.png)
+![image](https://user-images.githubusercontent.com/47184542/149344671-44ed33e0-77b0-4a6b-91d2-2e5c3501c744.png)
 
 Donc la je connais la moyenne d'age de mes clients.
-![image](https://user-images.githubusercontent.com/47184542/149339775-40c824f2-7845-4392-9956-11cc2a0651c2.png)
+
+![image](https://user-images.githubusercontent.com/47184542/149344771-89294d63-82c3-46ad-95dc-7d907ef3a2a0.png)
+
+J'ai aussi récupérer tout les e-mail de nos clients 
+
+![image](https://user-images.githubusercontent.com/47184542/149344899-f0747e99-a2ff-4cde-99af-9714fee5c6b5.png)
 
 Grace a cette requete j'ai une idée claire de quand et qui vient dans les restos 
+
 ![image](https://user-images.githubusercontent.com/47184542/149341194-8b7733a8-e326-4c57-87e8-5219d930eb70.png)
 
 Exemple d'un objet JSON que je récupère 
 
 ![image](https://user-images.githubusercontent.com/47184542/149343615-184b0cce-b78e-48e6-9598-0c1a790f7fdc.png)
 
-Je vois que Zeke est un client récurent et donc une personne a qui je vais pouvoir proposer des offres qu'il sera plus susceptible de prendre.
+Je vois que Zeke est un client récurent et donc une personne à qui je vais pouvoir proposer des offres qu'il sera plus susceptible de prendre.
 
 
 
