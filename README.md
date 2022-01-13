@@ -52,6 +52,8 @@ L'index permet de se déplacer plus rapidement a travers toutes les collections,
 
 ![image](https://user-images.githubusercontent.com/47184542/149181846-d3c866a2-ed50-42bb-81e9-3593d983375b.png)
 
+J'ai pas trouvé d'endroit ou mettre un index qui soit utile, au départ je voulais `db.clients.createIndex(a:1, options, commitQuorum)`
+
 ## Requêtes d'aggrégation 
 
 https://rtavenar.github.io/mongo_book/content/05_agreg.html
@@ -62,7 +64,9 @@ Les requêtes d'aggrégation permettent d'additionner, regrouper , compter des d
 
 Donc la mon but ca vas etre d'analyser nos clients, qui, quand et ou, pour après adapter nos restos a la demande et faire de la pub.
 
-![image](https://user-images.githubusercontent.com/47184542/149344671-44ed33e0-77b0-4a6b-91d2-2e5c3501c744.png)
+Dans la requete qui suis je prend un tranche d'age pour reorienté nos clients dans des restos qu'ils leurs correspondront le plus 
+
+![image](https://user-images.githubusercontent.com/47184542/149364452-33a19dd7-73cb-4220-825f-b50bde25c0b7.png)
 
 Donc la je connais la moyenne d'age de mes clients.
 
